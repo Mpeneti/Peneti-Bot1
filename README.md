@@ -1,29 +1,18 @@
 
 
-# DREADED-MD
-
-<div align="center">
-
-| [![Gifted Tech](https://telegra.ph/file/54efddccf41281ad7ec51.jpg?lenght=50width=50)](https://github.com/mouricedevs)|
-|----|
-
+## PENETI-BOT-V1
 
 # DISCLAIMER
 
-***This bot is not created nor endorsed by WhatsApp. Your account might be banned. Be careful not to cause spam***
-
-## FEATURES
-This is a simple whatsapp bot with group management features and some media commands as well as AI.
-
-Our AI features use random APIs to run, so sometimes they may be down.
+***This bot is FOR MUSIC, APK ,VIDEOS AND OTHER YOU NEED**
 
 ## SET-UP
 
-## Fork Repo First ( To Show Love ):
+## Fork Repo First [ To Update ]:
 
 <h2 align="center">   
 
-- Tap Here to  [FORK](https://github.com/mouricedevs/dreaded-md/fork)
+- Tap Here to  [FORK](https://github.com/Mpeneti/Peneti-Bot1/fork)
 
 
 ## Get Session ID:
@@ -39,42 +28,8 @@ Our AI features use random APIs to run, so sometimes they may be down.
    - ***[`CREATE HEROKU ACCOUNT`](https://signup.heroku.com/) `if you don't have one.`***
 
 
-- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/dreaded-md).***
+- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Mpeneti/Peneti-Bot1).***
 
--***`Fill in all the required variables and deploy the bot.`***
+***MORE PLATFORMS COMING SOON***
 
-
-
-
-<div align="center">
-
-| [![Gifted Tech](https://github.com/mouricedevs.png?lenght=50width=50)](https://github.com/mouricedevs)|
-|----|
-
-
----
-
-Incase of any issues, contact me  [here](https://wa.me/message/NHCZC5DSOEUXB1) via WhatsApp or [here](admin@giftedtechnexus.co.ke) via Email.
-
-Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
-
-# Credits To:
-
-* [`Fortunatus Mokata`](https://github.com/fortunatusmokaya) ***For Intitial Code***
-* [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
-* [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***For Baileys Library***
-* [`WaSocket Discord`](https://discord.gg/WeJM5FP9GG) ***For Maintaining the bot libs***
-
-* 
-
----
-
-## License
-
-[MIT License](https://github.com/mouricedevs/dreaded-md/blob/main/LICENSE)
-
-Copyright (c) 2024 DREADED-MD
----
-
-
-
+-***`ENJOY WITH SHARE TO EVERYONE💞.`***
